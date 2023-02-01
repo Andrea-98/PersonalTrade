@@ -1,7 +1,6 @@
 # PersonalTrade
-PersonalTrade
 
-##WIP
+# WIP
 
 ## Contributing
 
